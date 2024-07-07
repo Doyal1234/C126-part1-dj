@@ -1,0 +1,20 @@
+body{
+background-size: 100%;
+background-attachment: fixed;
+}
+
+#song_name{
+font-size: 22px;
+border-radius: 12px;
+}
+
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px grey;
+    }
+
+#span{
+border-radius: 10px;
+}
